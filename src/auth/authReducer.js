@@ -7,21 +7,22 @@ logged: true
  */
 
 
- export const authReducer =( state ={}, action)=>{
-    switch(action.type){
-       case types.login:
-           return{
-              ...action.payload,
-              logged: true   
-           }
+export const authReducer = (state = {}, action) => {
+    switch ( action.type ) {
 
-           case types.logout:
-            return{
-               logged: false
+        case types.login:
+            return {
+                ...action.payload,
+                logged: true
             }
 
-       default:
-           state;
+        case types.logout:
+            return {
+                logged: false
+            }
+
+        default:
+           return  state;
     }
 
 }
