@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: rgb(73, 103, 192);
+}
+
+hr {
+    background-color: blanchedalmond;
+}
+
+
+/* .card {
+    background-color: coral;
+} */
+
+.img-logo {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
