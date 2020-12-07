@@ -24,7 +24,7 @@ React - Javascript
 
 
 ### Screenshot
-![Login](/IMG1.png)
+![Login](https://github.com/AlesZaC/React-Heroes-App/blob/main/public/IMG1.png)
 
 
 
