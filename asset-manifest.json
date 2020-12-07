@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Heroes-App/static/css/main.edc07bfa.chunk.css",
+    "main.js": "/React-Heroes-App/static/js/main.899477c4.chunk.js",
+    "main.js.map": "/React-Heroes-App/static/js/main.899477c4.chunk.js.map",
+    "runtime-main.js": "/React-Heroes-App/static/js/runtime-main.0d7fa7c6.js",
+    "runtime-main.js.map": "/React-Heroes-App/static/js/runtime-main.0d7fa7c6.js.map",
+    "static/js/2.5feab702.chunk.js": "/React-Heroes-App/static/js/2.5feab702.chunk.js",
+    "static/js/2.5feab702.chunk.js.map": "/React-Heroes-App/static/js/2.5feab702.chunk.js.map",
+    "index.html": "/React-Heroes-App/index.html",
+    "precache-manifest.53fbef29e4b5c55e061d755f0ff978fd.js": "/React-Heroes-App/precache-manifest.53fbef29e4b5c55e061d755f0ff978fd.js",
+    "service-worker.js": "/React-Heroes-App/service-worker.js",
+    "static/css/main.edc07bfa.chunk.css.map": "/React-Heroes-App/static/css/main.edc07bfa.chunk.css.map",
+    "static/js/2.5feab702.chunk.js.LICENSE.txt": "/React-Heroes-App/static/js/2.5feab702.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d7fa7c6.js",
+    "static/js/2.5feab702.chunk.js",
+    "static/css/main.edc07bfa.chunk.css",
+    "static/js/main.899477c4.chunk.js"
+  ]
+}
