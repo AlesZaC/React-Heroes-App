@@ -1,6 +1,6 @@
 # Aplicacion de Heroes App
 
-### `La aplicacion contiene un listado , buscador de heroes de DC Y Marvel ,ademas se simulo el login sin backend`
+`La aplicacion contiene un listado , buscador de heroes de DC Y Marvel ,ademas se simulo el login sin backend`
 
 
 
