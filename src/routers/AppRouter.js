@@ -1,9 +1,9 @@
-import React ,{ useContext } from 'react'
+import React, { useContext } from 'react'
 import {
-   // BrowserRouter as Router,
-    HashRouter as Router,
-    Switch
-  } from "react-router-dom";
+      BrowserRouter as Router,
+      // HashRouter as Router,
+      Switch
+} from "react-router-dom";
 import { AuthContext } from '../auth/AuthContext';
 import { LoginScreen } from '../components/login/LoginScreen';
 import { DashboardRoutes } from './DashboardRoutes';
@@ -12,23 +12,23 @@ import { PublicRoute } from './PublicRoute';
 
 export const AppRouter = () => {
 
-const { user  } = useContext(AuthContext)
+      const { user } = useContext(AuthContext)
 
-   return(
-    <Router basename={process.env.PUBLIC_URL} >
-          <div>
-              <Switch>
-                    <PublicRoute exact path="/login" isAuthenticated={user.logged}
-                     component={ LoginScreen }/>
-                    <PrivateRoute 
-                    isAuthenticated={user.logged}
-                    path="/" component={ DashboardRoutes }/>
-              </Switch>
-          </div>
-  </Router>
-
-
+      return (
+            <Router /* basename={process.env.PUBLIC_URL} */ >
+                  <div>
+                        <Switch>
+                              <PublicRoute exact path="/login" isAuthenticated={user.logged}
+                                    component={LoginScreen} />
+                              <PrivateRoute
+                                    isAuthenticated={user.logged}
+                                    path="/" component={DashboardRoutes} />
+                        </Switch>
+                  </div>
+            </Router>
 
 
-   )
+
+
+      )
 }
