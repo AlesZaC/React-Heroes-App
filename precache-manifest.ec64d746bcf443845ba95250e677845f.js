@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "479bad2219bd5dfdea5c35d486e579ac",
+    "revision": "dbde3d613ebf0eff7e745f0f0115c725",
     "url": "/React-Heroes-App/index.html"
   },
   {
-    "revision": "4346d38a7ae1f8d1e4d0",
+    "revision": "e51fee0882e094bf852a",
     "url": "/React-Heroes-App/static/css/main.edc07bfa.chunk.css"
   },
   {
-    "revision": "2751bc37975a619985e2",
-    "url": "/React-Heroes-App/static/js/2.5feab702.chunk.js"
+    "revision": "d63f23cc9acd01ea86e7",
+    "url": "/React-Heroes-App/static/js/2.0480f7a3.chunk.js"
   },
   {
     "revision": "3c73c585782ac05880c0f89bcfdbba5a",
-    "url": "/React-Heroes-App/static/js/2.5feab702.chunk.js.LICENSE.txt"
+    "url": "/React-Heroes-App/static/js/2.0480f7a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4346d38a7ae1f8d1e4d0",
-    "url": "/React-Heroes-App/static/js/main.899477c4.chunk.js"
+    "revision": "e51fee0882e094bf852a",
+    "url": "/React-Heroes-App/static/js/main.bdd7feeb.chunk.js"
   },
   {
     "revision": "727ac0c3c1ffe95dedb4",
