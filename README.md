@@ -23,8 +23,12 @@ React - Javascript
 * [React](https://es.reactjs.org/)
 
 
-### Screenshot
+### LOGIN
 ![Login](https://github.com/AlesZaC/React-Heroes-App/blob/main/public/IMG1.png)
+
+### LOGIN
+![Login](https://github.com/AlesZaC/React-Heroes-App/blob/main/public/IMG2.png)
+
 
 
 
